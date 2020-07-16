@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Сиваева Ольга](https://up.htmlacademy.ru/adaptive/20/user/1490473).
-* Наставник: `Неизвестно`.
+* Наставник: [Михаил Колотович] (https://htmlacademy.ru/profile/id225353).
 
 ---
 
